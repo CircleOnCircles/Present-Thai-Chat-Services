@@ -3,6 +3,7 @@ Outline my thai chat/social as-a-service discovery
 
 ## Ready-Use Solutions
 * [page365](https://page365.net/new/account) - multichat providers aggregator
+* [zwiz.ai](https://zwiz.ai/th?) - Another comphensive provider
 
 #### not so mature
 * [chochae](https://www.chochae.ai/) - chat solutions for clothes sellers
