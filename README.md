@@ -1,6 +1,9 @@
 # Present-Thai-Chat-Services
 Outline my thai chat/social as-a-service discovery
 
+## Great Chatbot
+* [ขุนทอง](https://www.kasikornbank.com/th/personal/Digital-banking/Pages/khun-thong.aspx) - a Line Bot that automate bill split and the follow up. 
+
 ## Ready-Use Solutions
 * [page365](https://page365.net/new/account) - multichat providers aggregator
 * [zwiz.ai](https://zwiz.ai/th?) - Another comphensive provider
